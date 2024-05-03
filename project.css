@@ -1,0 +1,202 @@
+body ::selection{
+    background-color: blueviolet;
+  }
+      
+      .fa-whatsapp{
+    color: rgb(36, 203, 36) ;
+    font-size:xx-large;
+    
+  }
+  .nav-link,.section-text,.font-style {
+    font-family: "Gloria Hallelujah", cursive;
+    font-style: normal;
+  }
+  .nav-link:hover{
+    color: blueviolet;
+  }
+  
+  #article-font{
+    font-family: "Gloria Hallelujah", cursive;
+    font-style: normal;
+    color: blueviolet;
+    font-size: large;
+    font-weight: bolder;
+
+  }
+  #come-visit{
+    font-family: "Gloria Hallelujah", cursive;
+    font-style: normal;
+    color: blueviolet;
+    font-size:xx-large;
+    font-weight: bolder;
+
+  }
+  #latest-news{
+    background-image: url(https://canvastemplate.com/demos/kindergarten/images/hero-bg-icons.svg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-color: rgba(244, 244, 244, 0.93);
+    background-blend-mode: screen;
+
+  }
+
+  
+  #section-image{
+    background-image: url(https://canvastemplate.com/demos/kindergarten/images/hero-bg-icons.svg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-color: rgba(255, 201, 100, 0.93);
+    background-blend-mode: screen;
+  }
+  #news-picture{
+    width: 400px;
+  }
+  .btn-style{
+    height: 70px;
+    width: 250px;
+  }
+  .nav-item{
+    padding-left: 30px;
+    padding-right: 20px;
+  }
+  #school-boy{
+
+    width: 500px;
+  }
+  #puzzle{
+    height: 100px;
+     background-color: rgba(29, 188, 143, 0.276);
+  }
+  #arrow{
+    padding: 15px;
+    font-size: xx-large;
+    background-color:rgba(250, 235, 215, 0.249);
+    color: black;
+    font-weight: bolder;
+    border-radius:80px;
+    right:50px;
+    bottom: 100px;
+  }
+  
+  #meal{
+    height: 100px; 
+    background-color:rgba(255, 192, 203, 0.73);
+  }
+  #teacher{
+    height: 100px; 
+    background-color:rgba(128, 128, 128, 0.546);
+  }
+  #soap{
+    height: 100px; 
+    background-color:rgba(154, 230, 154, 0.657);
+  }
+  #aqrticle-card-3{
+    width: 18rem;
+    background-color: rgba(255, 192, 203, 0.521);
+  }
+ #aside{
+  background-image: url(https://canvastemplate.com/demos/kindergarten/images/hero-bg-icons.svg);
+  background-repeat: no-repeat;
+   background-size: cover; 
+   background-color: rgba(242, 239, 236, 0.93);
+    background-blend-mode: screen; 
+ }
+ #website{
+  width:100%; 
+  background-blend-mode: screen;
+ }
+ 
+
+ #article-card-6{
+  
+  height: 200px;
+  width: 200px;
+ }
+
+
+  #fish-1{
+    position: absolute;
+    width: 150px;
+        right:50px;
+        bottom: -150px;
+        width: 20 0px;
+        animation-name:fish;
+        animation-duration: 2s;
+        animation-timing-function: ease;
+        animation-iteration-count: infinite;
+  }
+  @keyframes fish{
+    0%{
+        
+        transform:translateY(50px)
+    }
+    50%{
+        transform: translateY(0px)
+    }
+    100%{
+        transform: translateY(50px);
+    }
+  }
+  #card{
+background-color:rgba(47, 60, 170, 0.52);
+font-family: "Gloria Hallelujah", cursive;
+    font-style: normal;
+}
+#fish-2{
+position: absolute;
+        left: 0; 
+        width: 200px;
+        margin-top: -150px;
+        animation-name:fish;
+        animation-duration: 2s;
+        animation-timing-function: ease;
+        animation-iteration-count: infinite;
+}
+@keyframes fish{
+    0%{
+        
+        transform:translateY(50px)
+    }
+    50%{
+        transform: translateY(0px)
+    }
+    100%{
+        transform: translateY(50px);
+    }
+  }
+
+  #tv-image-positon{
+    position:absolute;
+    top: 0;
+    left:0 ;
+  }
+  .carousel{
+    bottom: 110px;
+    left: 80px;
+  }
+  #carouselExampleRide{
+    position: relative;
+  }
+
+  #mail-input{
+  
+  background-image: url(https://canvastemplate.com/demos/kindergarten/images/subscribe-bg.svg);
+  background-repeat: no-repeat;
+  background-size: cover; 
+  background-color: rgba(73, 82, 221, 0.93);
+   background-blend-mode: screen; 
+   padding: 80px; 
+   border-radius: 2.6rem;
+  }
+  #footer{
+    background-color: linear-gradient(to top, #61BFDB, #E0F2C2, #FFF);
+    background-image: url(https://canvastemplate.com/demos/kindergarten/images/footer.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+    height:750px;
+    position:absolute;
+    top: 200px;
+    
+  }
+  
+ 
